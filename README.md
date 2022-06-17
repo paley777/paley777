@@ -1,4 +1,6 @@
-# 💫About Me :
+
+# Hi, I'm Valleryan Virgil Zuliuskandar 👋
+## 💫About Me :
 Berkuliah di Program Studi Informatika, Universitas Bengkulu.
 Punya Ketertarikan di dunia Programming.
 Sekarang tengah mempelajari framework Laravel 8.
