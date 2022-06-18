@@ -7,7 +7,7 @@ Sekarang tengah mempelajari framework Laravel 8.
 Membuat berbagai macam proyek di bidang IT.
 Juga aktif membuat konten kreatif di Instagram dan Youtube.
 
-##Gist Account
+## Gist Account
 https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
 
 
