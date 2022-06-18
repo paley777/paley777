@@ -7,6 +7,9 @@ Sekarang tengah mempelajari framework Laravel 8.
 Membuat berbagai macam proyek di bidang IT.
 Juga aktif membuat konten kreatif di Instagram dan Youtube.
 
+##Gist Account
+https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
+
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/756348391381926010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valley_feeds) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCUncJttuGfDFnwgWZ2xLtyg) 
