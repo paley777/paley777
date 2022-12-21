@@ -12,8 +12,10 @@ https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
 
 
 ## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/756348391381926010) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valley_feeds) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCUncJttuGfDFnwgWZ2xLtyg) 
-(https://www.linkedin.com/in/valleryan-virgil-zuliuskandar-50366a242/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/756348391381926010)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/valley_feeds)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCUncJttuGfDFnwgWZ2xLtyg)
+[![YouTube](https://img.shields.io/badge/Linkedin-account-brightgreen)](https://www.linkedin.com/in/valleryan-virgil-zuliuskandar-50366a242/)
 
 
 # 📊GitHub Stats :
