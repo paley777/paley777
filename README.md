@@ -3,7 +3,7 @@
 ## 💫About Me :
 Berkuliah di Program Studi Informatika, Universitas Bengkulu.
 Punya Ketertarikan di dunia Programming.
-Sekarang tengah mempelajari framework Laravel 8.
+Sekarang tengah mempelajari framework Laravel.
 Membuat berbagai macam proyek di bidang IT.
 Juga aktif membuat konten kreatif di Instagram dan Youtube.
 
