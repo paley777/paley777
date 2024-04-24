@@ -20,8 +20,10 @@ https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
 
 # 📊GitHub Stats :
 ![paley777's Stats](https://github-readme-stats.vercel.app/api?username=paley777&theme=outrun&show_icons=true&hide_border=false&count_private=true)
+<br>
 ![paley777's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=paley777&theme=outrun&show_icons=true&hide_border=false&layout=compact)
-
+<br>
+![paley777's Streak](https://github-readme-streak-stats.herokuapp.com/?user=paley777&theme=outrun&hide_border=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=paley777&icon=8&color=12)](https://visitcount.itsvg.in)
