@@ -7,7 +7,7 @@
 4. Interested in the field of machine learning.
 
 ## Gist Account
-https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
+https://gist.github.com/paley777 Click to see a useful snippet!
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/756348391381926010)
