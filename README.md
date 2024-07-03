@@ -1,15 +1,13 @@
 
 # Hi, I'm Valleryan Virgil Zuliuskandar 👋
 ## 💫About Me :
-Undergraduate student of the Informatics Study Program at Bengkulu University who focuses on studying website development, awardee of the KIP Kuliah Kemdikbud scholarship, owner of copyright in the field of computer programs and author of published journals.
-
-Valleryan, a figure who served as MKU Coding Assistant Lecturer Coordinator for four consecutive periods, has experience of IT project internships at Bank Bengkulu Head Office, being a presenter at various seminars and workshops and being a judge in several competitions.
-
-Overall, his experience spans over 12 positions. He also developed around 14 IT projects either as a website developer or even a music production. He is also active in organizations by becoming Deputy General Chair of the Photography and Journalism UKM at his faculty in the 2022/2023 period and currently serves as staff on the Advisory Board of the Informatics Engineering Student Association Organization (HIMATIF).
+1. As a Programmer.
+2. Focus on developing framework-based websites, such as Laravel, Codeigniter, Flask and Electron.js.
+3. Also learn Desktop-Based software development using Python, Java, C#, VB, etc.
+4. Interested in the field of machine learning.
 
 ## Gist Account
 https://gist.github.com/paley777 klik untuk melihat snippet yang berguna!
-
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/756348391381926010)
