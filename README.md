@@ -2,7 +2,7 @@
 # Hi, I'm Valleryan Virgil Zuliuskandar 👋
 ## About Me :
 1. Programmer.
-2. Focus on developing framework-based websites, such as Laravel, Codeigniter, Flask and Electron.js.
+2. Focus on developing framework-based websites, such as React.js, Laravel, Codeigniter, Flask and Electron.js.
 3. Also learn Desktop-Based software development using Python, Java, C#, VB, etc.
 4. Interested in the field of machine learning.
 
