@@ -11,6 +11,12 @@
 
 - 📫 How to reach me **valleryan1212@gmail.com**
 
+   <div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/paley777"/>  
+    </div>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/paley777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="paley777" height="30" width="40" /></a>
@@ -25,3 +31,5 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paley777&theme=default" alt="paley777" /></p>
+
+
