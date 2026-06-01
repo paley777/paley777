@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paley777&label=Profile%20views&color=0e75b6&style=plastic" alt="paley777" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paley777" alt="paley777" /></a> </p>
-
 - 🔭 I’m currently working at [Perseverance Technology](https://github.com/perseverance-tech-tw)
-
-- 🌱 I’m currently learning **Machine Learning, Fisheye Image Processing, Website and Desktop-Based Application Development**
 
 - 👨‍💻 All of my projects are available at [https://www.instagram.com/valley_feeds/](https://www.instagram.com/valley_feeds/)
 
-- 📫 How to reach me **valleryan1212@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/valleryanzul/](https://www.linkedin.com/in/valleryanzul/)
+
+- 📫 How to reach me **valleryan1212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
